@@ -1,0 +1,17 @@
+{
+    "CircularPlatform": false,
+    "Depth": 300,
+    "DepthDirection": 0,
+    "DepthOrigin": 0,
+    "DualExtruder": false,
+    "Height": 350,
+    "Icon": "cw_logo_small.png",
+    "Offset": 0,
+    "PrinterFooter": "",
+    "PrinterHeader": "",
+    "Width": 300,
+    "WidthDirection": 0,
+    "WidthOrigin": 0,
+    "XOfs": 0,
+    "YOfs": 0
+}
